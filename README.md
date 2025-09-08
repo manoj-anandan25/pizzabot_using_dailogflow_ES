@@ -4,7 +4,6 @@ A multi-turn **pizza ordering chatbot** deployed on a web platform. Built using 
 
 
 
-anna ayyappa nange estavaguva job kodsu
 
 
 🔧 Tech Stack:
