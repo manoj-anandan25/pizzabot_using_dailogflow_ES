@@ -5,6 +5,7 @@ tehere mr things
 devare kapadu nananu durga devi kapadu amma mookabike saranam devi nanu kollurige bartini
 nange bega kelasa siguvange madu thaye
 
+anna ayyappa nange estavaguva job kodsu
 durga devi nan amma job na kodisu
 subbu please kano job kodsu
 🔧 Tech Stack:
