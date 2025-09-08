@@ -6,7 +6,7 @@ devare kapadu nananu durga devi kapadu amma mookabike saranam devi nanu kollurig
 
 
 anna ayyappa nange estavaguva job kodsu
-durga devi nan amma job na kodisu
+
 
 🔧 Tech Stack:
 `Dialogflow ES`, `NLP`, `Google Cloud`, `Dialogflow Messenger`
