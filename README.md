@@ -2,6 +2,7 @@
 A multi-turn **pizza ordering chatbot** deployed on a web platform. Built using Dialogflow ES and Google Cloud technologies.
 ptyihn file is added
 tehere mr things
+devare kapadu nananu durga devi kapadu amma mookabike saranam devi nanu kollurige bartini
 
 🔧 Tech Stack:
 `Dialogflow ES`, `NLP`, `Google Cloud`, `Dialogflow Messenger`
