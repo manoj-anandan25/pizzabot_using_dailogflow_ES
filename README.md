@@ -5,6 +5,7 @@ tehere mr things
 devare kapadu nananu durga devi kapadu amma mookabike saranam devi nanu kollurige bartini
 nange bega kelasa siguvange madu thaye
 
+durga devi nan amma job na kodisu
 🔧 Tech Stack:
 `Dialogflow ES`, `NLP`, `Google Cloud`, `Dialogflow Messenger`
 
